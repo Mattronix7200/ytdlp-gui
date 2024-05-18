@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>ytdl_gui</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>g25.ico</ApplicationIcon>
+    <Title>YouTube Downloader</Title>
+    <Version>1.0</Version>
+    <Authors>Jakub Michalski</Authors>
+    <Company>WindowsBASE.pl</Company>
+    <Description>Program umożliwiający pobieranie filmów i muzyki z serwisów tj: YouTube, Spotify</Description>
+    <Copyright>Jakub Michalski</Copyright>
+    <PackageProjectUrl>https://windowsbase.pl</PackageProjectUrl>
+    <PackageIcon>g25.png</PackageIcon>
+    <RepositoryUrl></RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\loader.gif" />
+    <None Remove="Resources\Rolling%401x-1.0s-200px-200px.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="g25.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Pulpit\g25.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.2478.35" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
