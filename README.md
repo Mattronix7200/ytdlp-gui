@@ -29,7 +29,7 @@ Program napisany w języku C# (.Net Framework 8.0), dlatego ostatni system obsł
 
 <h2>Zrzut ekranu</h2>
 
-<img src="https://i.imgur.com/7Ugmves.png"/>
+<img src="https://i.imgur.com/1HMbDQ8.png"/>
 
 Ponieważ jest to pierwsze wydanie programu, może on cierpieć na drobne błędy, których nie wykryłem podczas własnego testowania aplikacji, z tego też powodu gorąco zachęcam do pobrania oraz testowania mojej aplikacji.
 
