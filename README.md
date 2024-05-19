@@ -33,6 +33,9 @@ Program napisany w języku C# (.Net Framework 8.0), dlatego ostatni system obsł
 
 Ponieważ jest to pierwsze wydanie programu, może on cierpieć na drobne błędy, których nie wykryłem podczas własnego testowania aplikacji, z tego też powodu gorąco zachęcam do pobrania oraz testowania mojej aplikacji.
 
+<h2>Pobierz program</h2>
+<a href="https://github.com/Mattronix7200/ytdlp-gui/releases/tag/ytdlp-gui-1.0">Przejdź do pobrania</a>
+
 <hr>
 
 <h2>English (README)</h2>
@@ -65,6 +68,10 @@ Obviously, this program is just a graphical overlay for faster and easier manage
 The program is written in C# language (.Net Framework 8.0), so the last system supported by this program is Windows 7.
 
 Since this is the first release of the program, it may suffer from minor bugs that I did not detect during my own testing of the application, for this reason I strongly encourage you to download and test my application.
+
+<h2>Download app</h2>
+
+<a href="https://github.com/Mattronix7200/ytdlp-gui/releases/tag/ytdlp-gui-1.0">Go to release</a>
 
 <hr>
 
