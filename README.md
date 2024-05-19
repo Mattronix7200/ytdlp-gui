@@ -35,7 +35,7 @@ Ponieważ jest to pierwsze wydanie programu, może on cierpieć na drobne błęd
 
 <hr>
 
-<h2>English translation</h2>
+<h2>English (README)</h2>
 
 Hi, this is my second application written in C#, which is based on finished projects: ytdlp, spotdl and ffmpeg:
 
