@@ -14,7 +14,9 @@ Lista dostępnych i obsługiwanych stron przez ten program:
 
 https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
 
-Oczywiscie ten program to tylko nakładka graficzna, umożliwiająca szybsze i łatwiejsze zarządzanie programami ytdlp, spotdl oraz ffmpeg. 
+Oczywiście ten program to tylko nakładka graficzna, umożliwiająca szybsze i łatwiejsze zarządzanie programami ytdlp, spotdl oraz ffmpeg. 
+
+Kod źródłowy: https://github.com/Mattronix7200/ytdl-gui
 
 <hr>
 <h2>Funkcje programu</h2>
@@ -55,6 +57,8 @@ List of sites available and supported by this program:
 https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
 
 Obviously, this program is just a graphical overlay for faster and easier management of ytdlp, spotdl and ffmpeg programs. 
+
+Source code: https://github.com/Mattronix7200/ytdl-gui
 
 <hr>
 <h2>Functions</h2>
